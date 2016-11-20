@@ -1,0 +1,22 @@
+section.content, section.content-header {
+	padding: 5px!important;
+}
+
+iframe {
+	height: 100vh;
+    width: 100%;
+    border: none;
+}
+
+section.content-header ul.nav > li > a {
+	padding: 5px 5px!important;
+}
+
+div.content-wrapper {
+	background-color: #FFFFFF;
+}
+
+
+section.content-header ul.nav > li > a.admin-tab > i {
+	cursor: pointer;
+}
